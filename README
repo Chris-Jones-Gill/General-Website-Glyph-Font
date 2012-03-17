@@ -1,0 +1,48 @@
+ * Project: Social-Light-Glyph-Font
+ * Author: Chris Jones-Gill - KISS Web Design
+ * Version: 0.1
+ * Created: March 2012
+ * Copyright: KISS Web Design - (C) 2012 - All rights reserved
+ * License: This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported License.
+ * http://creativecommons.org/licenses/by-sa/3.0/
+ * The licence applies to all general-website-webfont files.
+
+Contains 36 General Website Icon Glyphs.
+Icon                		Hex Entitiy         CSS Content
+======================================================================
+Home                		!                   content: '!';
+Picture             		&#x22;              content: '\22';
+Headset             		#                   content: '#';
+Video               		$                   content: '$';
+New                 		%                   content: '%';
+Tag                 		&                   content: '&';
+Phone               		&#x27;              content: '\27';
+Address Book        		(                   content: '(';
+Mail                		)                   content: ')';
+Map                 		*                   content: '*';
+Printer             		+                   content: '+';
+Add Comment         		,                   content: ',';
+Remove Comment      		-                   content: '-';
+Comments            		.                   content: '.';
+Bug                 		/                   content: '/';
+Paperplane          		0                   content: '0';
+Star-empty          		1                   content: '1';
+Star-half           		2                   content: '2';
+Star                		3                   content: '3';
+Thumbs Up           		4                   content: '4';
+Thumbs Down         		5                   content: '5';
+Smiley              		6                   content: '6';
+Neutral             		7                   content: '7';
+Sad                 		8                   content: '8';
+Question            		9                   content: '9';
+Info                		:                   content: ':';
+Checkmark           		;                   content: ';';
+Tri-up              		<                   content: '<';
+Tri-down            		=                   content: '=';
+Tri-left            		>                   content: '>';
+Tri-right           		?                   content: '?';
+Share               		@                   content: '@';
+Feed                		A                   content: 'A';
+HTML5               		B                   content: 'B';
+HTML5_2             		C                   content: 'C';
+CSS3                		D                   content: 'D';
